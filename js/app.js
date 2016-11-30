@@ -24,6 +24,6 @@ beforeCallback(
   (...args) => console.log(...args)
 )
 
-proxy.test(() => {
-  console.log('cb called ...')
+proxy.test((param1) => {
+  console.log('cb called ... ' + param1)
 })

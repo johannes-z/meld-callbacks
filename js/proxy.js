@@ -5,6 +5,6 @@ export default class {
 
   test (cb) {
     console.log('test called ...')
-    cb()
+    cb('param1')
   }
 }
