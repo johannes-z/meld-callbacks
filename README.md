@@ -1,6 +1,6 @@
 # meld-callbacks
 
-A simple project to test meld with callbacks.
+A simple project to test meld with anonymous callbacks.
 
 ## Usage
 
